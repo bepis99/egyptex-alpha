@@ -1,0 +1,22 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "main": "server.js",
+  "homepage": "",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "14.x",
+    "npm": "6.x",
+    "yarn": "1.x"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.9"
+
+  }
+}
